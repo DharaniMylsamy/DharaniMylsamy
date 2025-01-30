@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DharaniMylsamy
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Full Stack development , Gardening ..
+- 🌱 I’m currently learning MERN technologies
+- 💞️ I’m looking for job in Coimbatore 
+- 📫 Email : dhaanvanth@gmail.com
+- 😄 Hey! , She 
+- ⚡ Think before you Leap !!
 
 <!---
 DharaniMylsamy/DharaniMylsamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
